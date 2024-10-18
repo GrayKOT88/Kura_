@@ -1,0 +1,16 @@
+{
+  "idSave": 99,
+  "isFirstSession": false,
+  "language": "en",
+  "promptDone": false,
+  "money": 1,
+  "newPlayerName": "Hello!",
+  "openLevels": [
+    false,
+    true,
+    false
+  ],
+  "saveChick": 2,
+  "eatenChick": 3,
+  "recordSaveChick": 101
+}
